@@ -8,4 +8,4 @@ console.log("Name:")
 console.log(name)
 
 console.log("Height:")
-console.log(parseInt(height) + (growth))
+console.log(parseInt(height) + ("growth"))
