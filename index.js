@@ -2,7 +2,7 @@
 
 var name = "Janet"
 var height = 74
-var growth = 100
+var growth = 5
 
 console.log("Name:")
 console.log(name)
